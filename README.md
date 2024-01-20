@@ -1,2 +1,2 @@
 # shootout
-shootout in the desert
+Python Shootout game with multiple backgrounds
